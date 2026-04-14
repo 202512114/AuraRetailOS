@@ -1,0 +1,13 @@
+key,name,kiosk,price,stock,cold
+E1,Emergency Blanket,Emergency Relief Kiosk,60,18,0
+E2,Energy Bar,Emergency Relief Kiosk,12,90,0
+E3,Water Bottle,Emergency Relief Kiosk,20,80,0
+E4,First Aid Pouch,Emergency Relief Kiosk,40,20,0
+F1,Sandwich,Food Kiosk,20,30,0
+F2,Juice Bottle,Food Kiosk,35,15,1
+F3,Biscuit Pack,Food Kiosk,10,60,0
+F4,Water Bottle,Food Kiosk,20,70,0
+P1,Pain Relief,Pharmacy Kiosk,25,50,0
+P2,Insulin Pack,Pharmacy Kiosk,45,20,1
+P3,Bandage Roll,Pharmacy Kiosk,15,30,0
+P4,Antiseptic,Pharmacy Kiosk,35,25,0
